@@ -48,18 +48,10 @@ The dashboard provides a visual overview of sales performance and helps identify
 
 The main objective of this project is to transform raw sales data into an interactive and easy-to-understand dashboard that can support data-driven business decisions.
 
-## 📁 File
-
-The complete Excel workbook is available in this repository:
-
-`My first excel project.xlsx`
-
 ## 👨‍💻 Author
 
 **Prem Prakash Singh**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
-
----
 
 ⭐ If you find this project useful, feel free to star the repository!
